@@ -66,9 +66,11 @@ and(Bo,abar,b);
 endmodule
 Developed by:AYISHA RINSI K RegisterNumber:212223040022
 ```
+
 **RTL Schematic**
 ![alt text](<Screenshot 2024-03-19 080053.png>)
 **Output/TIMING Waveform**
 ![alt text](<Screenshot 2024-03-19 075841.png>)
 **Result:**
 Thus Implementation-of-Half-Adder-and-Half Subtractor-circuit is running successfully.
+
