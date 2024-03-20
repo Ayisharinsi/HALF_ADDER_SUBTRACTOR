@@ -66,7 +66,6 @@ and(Bo,abar,b);
 endmodule
 Developed by:AYISHA RINSI K RegisterNumber:212223040022
 ```
-
 **RTL Schematic**
 ![alt text](<half_add DE(gate)-1.png>)
 **Output/TIMING Waveform**
