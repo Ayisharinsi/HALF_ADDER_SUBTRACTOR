@@ -64,13 +64,12 @@ not(abar,a);
 xor(D,a,b);
 and(Bo,abar,b);
 endmodule
-```
 Developed by:AYISHA RINSI K RegisterNumber:212223040022
+```
 
 **RTL Schematic**
-![Uploading Screenshot 2024-03-20 203653.png…]()
-
+![alt text](<half_add DE(gate)-1.png>)
 **Output/TIMING Waveform**
-![alt text](<Screenshot 2024-03-20 202853.png>)
+![alt text](<Screenshot 2024-03-20 203653-1.png>)
 **Result:**
 Thus Implementation-of-Half-Adder-and-Half Subtractor-circuit is running successfully.
