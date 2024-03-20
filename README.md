@@ -65,11 +65,11 @@ xor(D,a,b);
 and(Bo,abar,b);
 endmodule
 ```
-Developed by: RegisterNumber:*/
+Developed by:AYISHA RINSI K RegisterNumber:212223040022
 
 **RTL Schematic**
 ![alt text](<half_add DE(gate).png>)
 **Output/TIMING Waveform**
 ![alt text](<Screenshot 2024-03-20 202853.png>)
 **Result:**
-Thus Implementation-of-Half-Adder-and-Half Subtractor-circuit is running successfully
+Thus Implementation-of-Half-Adder-and-Half Subtractor-circuit is running successfully.
