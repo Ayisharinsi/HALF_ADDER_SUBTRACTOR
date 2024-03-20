@@ -68,7 +68,8 @@ endmodule
 Developed by:AYISHA RINSI K RegisterNumber:212223040022
 
 **RTL Schematic**
-![alt text](<half_add DE(gate).png>)
+![Uploading Screenshot 2024-03-20 203653.png…]()
+
 **Output/TIMING Waveform**
 ![alt text](<Screenshot 2024-03-20 202853.png>)
 **Result:**
