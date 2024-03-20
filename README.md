@@ -70,7 +70,9 @@ Developed by:AYISHA RINSI K RegisterNumber:212223040022
 **RTL Schematic**
 ![alt text](<Screenshot 2024-03-19 080053.png>)
 **Output/TIMING Waveform**
-![alt text](<Screenshot 2024-03-19 075841.png>)
+![half_sum(sub) DE(gate)](https://github.com/Ayisharinsi/HALF_ADDER_SUBTRACTOR/assets/148609304/c9ffd401-ad0a-40b3-b802-8c27871adf15)
+![half_add DE](https://github.com/Ayisharinsi/HALF_ADDER_SUBTRACTOR/assets/148609304/806d02c0-22d9-4b70-b677-77485b92d959)
+
 **Result:**
 Thus Implementation-of-Half-Adder-and-Half Subtractor-circuit is running successfully.
 
